@@ -20,3 +20,10 @@
 <a href="https://github.com/stephinyt"><img title="Author" src="https://img.shields.io/badge/Author-stephin-yt/riolu?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
+<p align="center">
+Project created by <a href="https://github.com/stephinyt">stephinyt</a> to make it public
+    <br>
+       | © |
+        Reserved |
+    <br> 
+</p>
