@@ -5,7 +5,7 @@
 <a href="https://bit.ly/3koZRGY"><img src="https://avatars.githubusercontent.com/u/93263203?s=400&u=7dad4df2d59f8ace0cb0fa4535e91a0c54bb62e5&v=4.jpg" alt="google-font" border="0"></a><a href="https://bit.ly/3koZRGY"><img src="https://avatars.githubusercontent.com/u/93263203?s=400&u=7dad4df2d59f8ace0cb0fa4535e91a0c54bb62e5&v=4.jpg" alt="google-font" border="0"></a>
 
 <div align="center">
-        <img src="riolu photo.jpg" alt="JPG" width="250" height="200"/>
+        <img src="https://raw.githubusercontent.com/stephinyt/riolu/main/riolu%20photo.jpg" alt="JPG" width="250" height="200"/>
 </p>
 
 <div align="center">
