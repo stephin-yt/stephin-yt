@@ -27,5 +27,14 @@ Project created by <a href="https://github.com/stephinyt">stephinyt</a> to make 
         Reserved |
     <br> 
 </p>
-
+ 
+ <div align="left">
+ 
+ - 😜 I’m Sourav, 14 years old
+- 🔭 I’m currently working on [Riolu bot](https://github.com/stephin-sir/Riolu)
+- 🌱 I’m currently learning node js
+- 👯 I’m looking to collaborate on nobody
+- 💬 Ask me about anything. I don't know anything
+- 📫 How to reach me: [Whatsapp group](https://chat.whatsapp.com/GinJrDTgvfVFcgiRu0weA8), [Instagram](https://www.instagram.com/stephin_68/)
+-->
 
