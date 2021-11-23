@@ -1,11 +1,24 @@
-##
-![stephin yt profile welcome](https://user-images.githubusercontent.com/93263203/139650756-1903dee4-1dc5-480e-837b-4ec190aeee82.gif)
+## Stephin YT
+
+# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm Stephin YT&nbsp;
+
+![My card name](https://cardivo.vercel.app/api?name=KARTHIK_TERROR-%20BOY&description=Hi,%20I'm%20a%20moderate%20Developer%20😎&image=https://i.imgur.com/NyoTgJE.pngbackgroundColor=%23ecf0f1&github=terror-boy&&pattern=leaf&colorPattern=%25eaeaea)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=terror-boy&label=Profile%20views&color=0e75b6&style=flat" alt="terror-boy" /> </p>
 
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terror-boy" alt="terror-boy" /></a> </p>
 
-<div align="center">
-        <img src="https://raw.githubusercontent.com/stephin-sir/Riolu/master/git%20png/riolu.jpg" alt="JPG" width="250" height="200"/>
+<p align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=terror-boy&show_icons=true&theme=dark&locale=en&layout=compact" alt="terror-boy" /></p>
+
+<p align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=terror-boy&show_icons=true&theme=dark&locale=en" alt="terror-boy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terror-boy&theme=dark" alt="terror-boy" /></p>
 </p>
+
+<p align="left"> <a href="https://twitter.com/Karthikeditz123" target="blank"><img src="https://img.shields.io/twitter/follow/Karthikeditz123?logo=twitter&style=for-the-badge" alt="Karthikeditz123" /></a> </p>
 
 <div align="center">
 
