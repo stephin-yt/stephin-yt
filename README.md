@@ -4,7 +4,7 @@
 
 
 <div align="center">
-        <img src="https://raw.githubusercontent.com/stephinyt/riolu/master/git%20png/riolu%20photo.jpg" alt="JPG" width="250" height="200"/>
+        <img src="https://raw.githubusercontent.com/stephin-sir/Riolu/master/git%20png/riolu.jpg" alt="JPG" width="250" height="200"/>
 </p>
 
 <div align="center">
@@ -29,9 +29,9 @@ Project created by <a href="https://github.com/stephinyt">stephinyt</a> to make 
  
  <div align="left">
  
- - 😜 I’m Sourav, 14 years old
+ - 😜 I’m Stephin, 14 years old
 - 🔭 I’m currently working on [Riolu bot](https://github.com/stephin-sir/Riolu)
-- 🌱 I’m currently learning node js
+- 🌱 I’m currently learning javascript
 - 👯 I’m looking to collaborate on nobody
 - 💬 Ask me about anything. I don't know anything
 - 📫 How to reach me: [Whatsapp group](https://chat.whatsapp.com/GinJrDTgvfVFcgiRu0weA8), [Instagram](https://www.instagram.com/stephin_68/)
