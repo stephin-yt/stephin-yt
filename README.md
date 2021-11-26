@@ -2,7 +2,7 @@
 
 # Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm Stephin YT&nbsp;
 
-![My card name](https://cardivo.vercel.app/api?name=stephinㅤyt%20&description=Hi,%20I'm%20a%20Riolu%20owner%20😎&image=https://i.imgur.com/on7Q1Hq.jpeg.pngbackgroundColor=%23ecf0f1&github=stephin-sir&&pattern=leaf&colorPattern=%25eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=stephin-sir%20&description=Hi,%20I'm%20a%20Riolu%20owner%20😎&image=https://i.imgur.com/on7Q1Hq.jpeg.pngbackgroundColor=%23ecf0f1&github=stephin-sir&&pattern=leaf&colorPattern=%25eaeaea)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stephin-sir&label=Profile%20views&color=0e75b6&style=flat" alt="terror-boy" /> </p>
 <p align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=stephin-sir&show_icons=true&theme=dark&locale=en" alt="stephin-sir" /></p>
