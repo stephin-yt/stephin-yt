@@ -15,8 +15,5 @@
  
  - 😜 I’m Stephin, 14 years old
 - 🔭 I’m currently working on [Hiser bot](https://github.com/stephin-yt/Hiser)
-- 🌱 I’m currently learning javascript
-- 👯 I’m looking to collaborate on nobody
-- 💬 Ask me about anything. I don't know anything
 - 📫 How to reach me:[Instagram](https://www.instagram.com/stephin_68/)
 
